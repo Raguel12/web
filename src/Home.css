@@ -1,0 +1,11 @@
+.home{
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: turquoise;
+}
+.homerow{
+    display: flex;
+    margin-right: 5px;
+    margin-left: 5px;
+}
